@@ -21,7 +21,7 @@
   $ git clone https://github.com/Matheus-Franco/dropdown-menu.git
 
   # Go into the repository
-  $ cd desafio-vilaApps
+  $ cd dropdown-menu
 
   # install all dependencies
   $ yarn install
