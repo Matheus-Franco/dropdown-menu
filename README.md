@@ -1,12 +1,31 @@
-## Dropdown Menu 
+## :arrow_right: Dropdown Menu 
+<br />
+<div>
+        Development inspired by:
+        <a href="https://youtu.be/IF6k0uZuypA">
+            React dropdown tutorial.
+        </a>
+</div>
+<br />
 
-Animated multi-level dropdown menu inspired by Facebook's March 2020 web UI. 
+## :computer: Techs
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+<br />
 
-Watch the full [React dropdown tutorial](https://youtu.be/IF6k0uZuypA) on YouTube. 
+## :bulb: Clone
 
-```
-git clone <this-repo>
+```bash
+  # Clone this repository
+  $ git clone https://github.com/Matheus-Franco/dropdown-menu.git
 
-npm i
-npm start
+  # Go into the repository
+  $ cd desafio-vilaApps
+
+  # install all dependencies
+  $ yarn install
+
+  # Run
+  $ yarn start
 ```
